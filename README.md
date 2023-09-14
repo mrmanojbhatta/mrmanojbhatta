@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Bhatta</h1>
 <h3 align="center">A junior Programmer from Ghodaghodi Municipality 1 sukhad kailali Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
 - 📫 How to reach me **mrmanojbhatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
