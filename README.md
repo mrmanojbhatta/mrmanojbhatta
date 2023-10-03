@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Bhatta</h1>
-<h3 align="center">I am Ethical Hacker and junior Programmer from Ghodaghodi Municipality 1 sukhad kailali Nepal</h3>
+<h3 align="center">Junior Programmer from Ghodaghodi Municipality 1 sukhad kailali Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4734tk0se18pifpk72baoa84xdvmyq0nfqlf8m5dgz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 📫 How to reach me **mrmanojbhatta@gmail.com**
 
