@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Bhatta</h1>
-<h3 align="center"> Ethical hacker and only one Open Source Intelligence expert from Nepal</h3>
+<h3 align="center"> Ethical hacker and Open Source Intelligence expert from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4734tk0se18pifpk72baoa84xdvmyq0nfqlf8m5dgz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrmanojbhatta" alt="mrmanojbhatta" /></a> </p>
 
