@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OSINT, ETHICAL HACKING AND PROGRAMMING**
 
-- 📝 I regularly write articles on [https://medium.com/@mrmanojbhatta](https://mrmanojbhatta.medium.com)
+- 📝 I regularly write articles on [https://mrmanojbhatta.medium.com/](https://mrmanojbhatta.medium.com)
 
 - 💬 Ask me about **OSINT AND HACKING**
 
