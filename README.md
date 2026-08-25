@@ -43,7 +43,26 @@ Alongside development, I'm building my knowledge in <b>cybersecurity, OSINT, web
 My cybersecurity journey focuses on learning <b>web security, ethical hacking, OSINT, reconnaissance and security research</b>.
 </p><br><h2>💼 EXPERIENCE</h2><table width="100%">
 <tr><td width="20%" align="center">
-<h3>01</h3>
+<h3>01</h3><h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg"
+    alt="Manoj Bhatta GitHub Contribution Snake"
+    width="100%">
+</picture>
+
+</div>
 </td><td>
 <b>Independent Web Developer</b><br>
 Self-Taught • Personal & Client Projects
@@ -109,3 +128,23 @@ BCT Sukhad • 2021
 <a href="https://manoj-bhatta.com.np">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,50:06110d,100:000000" width="100%" alt="Footer"/>
 </a></div>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg"
+    alt="Manoj Bhatta GitHub Contribution Snake"
+    width="100%">
+</picture>
+
+</div>
