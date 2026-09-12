@@ -1,150 +1,547 @@
-<div align="center"><a href="https://manoj-bhatta.com.np">
-  <img src="https://manoj-bhatta.com.np/img/home/hero.jpg" width="180" height="180" alt="Manoj Bhatta" style="border-radius:50%;" />
-</a><h1>MANOJ BHATTA</h1><h3>MERN Stack Web Developer • Full Stack Developer • Security Enthusiast</h3><p>
+<div align="center">
+
+<a href="https://manoj-bhatta.com.np">
+<img src="https://manoj-bhatta.com.np/img/home/hero.jpg" width="150" height="150" alt="Manoj Bhatta" style="border-radius:50%;">
+</a>
+
+<br>
+
+# MANOJ BHATTA
+
+### Full Stack Web Developer · Security Enthusiast · OSINT Researcher
+
+<p>
   <a href="https://manoj-bhatta.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-manoj--bhatta.com.np-111111?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=00FF88">
   </a>
   <a href="https://github.com/mrmanojbhatta">
-    <img src="https://img.shields.io/badge/GitHub-mrmanojbhatta-111111?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=00FF88">
   </a>
   <a href="https://medium.com/mrmanojbhatta">
-    <img src="https://img.shields.io/badge/Medium-mrmanojbhatta-111111?style=for-the-badge&logo=medium&logoColor=00ff88" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-111111?style=for-the-badge&logo=medium&logoColor=00FF88">
   </a>
-</p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+%7C+WORDPRESS+%7C+PHP+%7C+MYSQL;BUILDING+WEB+APPLICATIONS+AND+CLIENT+PROJECTS;CYBERSECURITY+%7C+OSINT+%7C+WEB+SECURITY;LEARN+%E2%80%A2+BUILD+%E2%80%A2+RESEARCH+%E2%80%A2+IMPROVE" alt="Typing animation"/></div><br><table width="100%">
-<tr><td width="55%" valign="top"><h2>⚡ PROFILE</h2><p>
-I'm a self-taught <b>Full Stack Web Developer</b> from Kailali, Nepal, focused on building practical websites and web applications for personal and client projects.
-</p><p>
-My main development focus is <b>MERN Stack, PHP, MySQL, JavaScript, WordPress and WooCommerce</b>.
-</p><p>
-Alongside development, I'm building my knowledge in <b>cybersecurity, OSINT, web security, Linux and ethical hacking</b>.
-</p></td><td width="45%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,php,mysql,wordpress,linux,git,github&perline=7" alt="Tech stack"/></td></tr>
-</table><br><div align="center"><img src="https://img.shields.io/badge/🇳🇵_NEPAL-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Nepal"/>
-<img src="https://img.shields.io/badge/BICTE-TU-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="BICTE"/>
-<img src="https://img.shields.io/badge/SELF--TAUGHT-DEVELOPER-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Self taught"/>
-<img src="https://img.shields.io/badge/CLIENT-PROJECTS-000000?style=for-the-badge&labelColor=06110d&color=00ff88" alt="Client projects"/></div><br><h2>🧠 DEVELOPMENT STACK</h2><table width="100%">
-<tr><td width="25%" align="center"><h3>Frontend</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React"/></td><td width="25%" align="center"><h3>Backend</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" alt="Express"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" alt="PHP"/></td><td width="25%" align="center"><h3>Database</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/></td><td width="25%" align="center"><h3>CMS & Tools</h3><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="42" alt="WordPress"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" alt="Linux"/></td></tr>
-</table><br><h2>🚀 WHAT I BUILD</h2><table width="100%">
-<tr><td width="33%" align="center"><h3>🌐 Full Stack</h3><p>MERN applications, PHP/MySQL websites, APIs and complete web solutions.</p></td><td width="33%" align="center"><h3>🧩 WordPress</h3><p>Business websites, Elementor development, WooCommerce and custom features.</p></td><td width="33%" align="center"><h3>🎨 UI / UX</h3><p>Responsive interfaces, website layouts and practical user-focused designs.</p></td></tr>
-</table><br><h2>🛡️ SECURITY & OSINT</h2><div align="center"><img src="https://img.shields.io/badge/WEB_SECURITY-000000?style=for-the-badge&logo=owasp&logoColor=00ff88" alt="Web Security"/>
-<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00ff88" alt="OSINT"/>
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-000000?style=for-the-badge&logoColor=00ff88" alt="Ethical Hacking"/>
-<img src="https://img.shields.io/badge/RECONNAISSANCE-000000?style=for-the-badge&logoColor=00ff88" alt="Reconnaissance"/>
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff88" alt="Linux"/></div><p align="center">
-My cybersecurity journey focuses on learning <b>web security, ethical hacking, OSINT, reconnaissance and security research</b>.
-</p><br><h2>💼 EXPERIENCE</h2><table width="100%">
-<tr><td width="20%" align="center">
-<h3>01</h3><h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+</p>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+%7C+PHP+%7C+MYSQL+%7C+WORDPRESS;CYBERSECURITY+%7C+WEB+SECURITY+%7C+OSINT;BUILDING+%7C+RESEARCHING+%7C+LEARNING;TURNING+IDEAS+INTO+WORKING+SYSTEMS"
+alt="Typing Animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF88" width="100%" alt="">
+
+</div>
+
+<br>
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg"
-    alt="Manoj Bhatta GitHub Contribution Snake"
-    width="100%">
-</picture>
+<img src="https://img.shields.io/badge/BASED%20IN-KAILALI%2C%20NEPAL-06110D?style=flat-square&logo=googlemaps&logoColor=00FF88">
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20SECURITY-06110D?style=flat-square&logo=target&logoColor=00FF88">
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%7C%20RESEARCH%20%7C%20IMPROVE-06110D?style=flat-square&logo=github&logoColor=00FF88">
 
 </div>
-</td><td>
-<b>Independent Web Developer</b><br>
-Self-Taught • Personal & Client Projects
+
 <br><br>
-WordPress development • Theme customization • HTML/CSS/Bootstrap • MERN development • Website features • Content integration • Client technical support
-</td></tr>
-</table><br><h2>🔥 FEATURED PROJECTS</h2><table width="100%">
-<tr><td width="50%" valign="top"><h3>🌐 Personal Portfolio Website</h3><p>
-A personal portfolio built using HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.
-</p><img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>📰 Tech Blog Website</h3><p>
-Technology-focused WordPress website covering content, courses, projects and SEO.
-</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Elementor-000000?style=flat-square&logo=elementor&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logoColor=00ff88"/></td></tr><tr><td width="50%" valign="top"><h3>🏗️ Saprem Suppliers</h3><p>
-E-commerce website developed with WordPress and WooCommerce for a building-materials business.
-</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/WooCommerce-000000?style=flat-square&logo=woocommerce&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>⚖️ Kaanooni Sahayatri</h3><p>
-Professional WordPress website developed for a Nepal-based law firm.
-</p><img src="https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Business_Website-000000?style=flat-square&logoColor=00ff88"/></td></tr><tr><td width="50%" valign="top"><h3>❤️ Love Calculator</h3><p>
-A fun name-based compatibility calculator created as a web project.
-</p><img src="https://img.shields.io/badge/Web_Project-000000?style=flat-square&logoColor=00ff88"/></td><td width="50%" valign="top"><h3>🧪 More in Progress</h3><p>
-Continuously experimenting with web development, cybersecurity, OSINT and programming projects.
-</p></td></tr>
-</table><br><h2>🎓 EDUCATION & CERTIFICATIONS</h2><table width="100%">
-<tr><td align="center">🎓 <b>BICTE</b><br>
-Tribhuvan University<br>
+
+## ABOUT
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+### Hello, I'm Manoj.
+
+I'm a self-taught **Full Stack Web Developer** from Kailali, Nepal, focused on building practical websites, web applications and digital solutions.
+
+My development work revolves around:
+
+**MERN Stack · JavaScript · PHP · MySQL · WordPress · WooCommerce**
+
+Alongside development, I'm expanding into:
+
+**Cybersecurity · Web Security · OSINT · Reconnaissance · Linux · Ethical Hacking**
+
+I enjoy understanding how systems work, building them from the ground up, researching technologies and continuously improving my technical skills.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## WHAT I DO
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 01
+
+## WEB
+
+Full Stack applications, websites, APIs and practical web solutions.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 02
+
+## WORDPRESS
+
+Business websites, Elementor, WooCommerce and custom implementations.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 03
+
+## SECURITY
+
+Web security, ethical hacking, reconnaissance and security research.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 04
+
+## OSINT
+
+Open-source intelligence, digital research and information gathering.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## TECHNOLOGY
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" alt="Frontend">
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql&perline=5" alt="Backend and Database">
+
+<br><br>
+
+### CMS, Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,linux&perline=4" alt="Tools">
+
+</div>
+
+<br>
+
+## DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+### THINK
+
+Understand the problem before writing the solution.
+
+</td>
+
+<td align="center">
+
+### BUILD
+
+Turn ideas into functional systems.
+
+</td>
+
+<td align="center">
+
+### TEST
+
+Find weaknesses, bugs and better approaches.
+
+</td>
+
+<td align="center">
+
+### IMPROVE
+
+Keep learning and make the next version better.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## SECURITY & OSINT
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB%20SECURITY-111111?style=for-the-badge&logo=owasp&logoColor=00FF88">
+<img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logoColor=00FF88">
+<img src="https://img.shields.io/badge/RECONNAISSANCE-111111?style=for-the-badge&logoColor=00FF88">
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-111111?style=for-the-badge&logo=hackthebox&logoColor=00FF88">
+<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=00FF88">
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+### WEB SECURITY
+
+* Web application security
+* Vulnerability research
+* Reconnaissance
+* Security testing
+* OWASP concepts
+* Bug bounty learning
+
+</td>
+
+<td valign="top">
+
+### OSINT
+
+* Open-source intelligence
+* Digital footprint research
+* Information gathering
+* Online investigation
+* Research methodology
+* Digital analysis
+
+</td>
+
+<td valign="top">
+
+### SYSTEMS
+
+* Linux
+* Networking
+* Servers
+* Web technologies
+* Security fundamentals
+* Technical research
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## SELECTED PROJECTS
+
+<table width="100%">
+
+<tr>
+<td valign="top" width="50%">
+
+### Personal Portfolio
+
+A professional portfolio website created to showcase development work, technical skills, projects and professional information.
+
+`HTML` `CSS` `Bootstrap`
+`JavaScript` `PHP` `MySQL`
+
+</td>
+
+<td valign="top" width="50%">
+
+### Tech Blog
+
+Technology-focused WordPress platform covering technical content, learning resources, projects and SEO.
+
+`WordPress` `Elementor` `SEO`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### Saprem Suppliers
+
+E-commerce website developed for a building-materials business using WordPress and WooCommerce.
+
+`WordPress` `WooCommerce`
+
+</td>
+
+<td valign="top" width="50%">
+
+### Kaanooni Sahayatri
+
+Professional business website developed for a Nepal-based law firm.
+
+`WordPress` `Business Website`
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### Love Calculator
+
+A fun name-based compatibility calculator created as a web development project.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td valign="top" width="50%">
+
+### More Projects
+
+Continuously experimenting with web development, cybersecurity, OSINT, programming and Linux.
+
+`Research` `Build` `Experiment`
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+## EXPERIENCE
+
+<table width="100%">
+<tr>
+<td width="20%" align="center">
+
+# 01
+
+</td>
+
+<td valign="top">
+
+### Independent Web Developer
+
+**Self-Taught · Personal & Client Projects**
+
+Experience across WordPress development, theme customization, Elementor, WooCommerce, HTML/CSS/Bootstrap, JavaScript, MERN development, PHP/MySQL, website features, integrations and technical support.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## CURRENTLY LEARNING
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+**CYBERSECURITY**
+
+Web Security
+Ethical Hacking
+Security Research
+
+</td>
+
+<td align="center">
+
+**OSINT**
+
+Reconnaissance
+Digital Research
+Information Gathering
+
+</td>
+
+<td align="center">
+
+**SYSTEMS**
+
+Linux
+Networking
+Servers
+
+</td>
+
+<td align="center">
+
+**DEVELOPMENT**
+
+MERN
+Advanced JavaScript
+Web Architecture
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## EDUCATION
+
+<table width="100%">
+
+<tr>
+<td width="50%" valign="top">
+
+### BICTE
+
+**Tribhuvan University**
+
 Ghodaghodi Multiple Campus
+Kailali, Nepal
 
-</td><td align="center">📜 <b>Delta Full Stack Web Development</b><br>
-MERN Stack<br>
-Apna College • 2025
+</td>
 
-</td><td align="center">📜 <b>WordPress Web Development</b><br>
-Udemy • 2023
+<td width="50%" valign="top">
 
-</td><td align="center">📜 <b>Basic Computer Course</b><br>
-BCT Sukhad • 2021
+### Full Stack Web Development
 
-</td></tr>
-</table><br><h2>🧰 ADDITIONAL SKILLS</h2><div align="center"><img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/MS_Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Leadership-000000?style=for-the-badge&logoColor=00ff88"/></div><br><h2>📡 CONNECT</h2><div align="center"><a href="https://manoj-bhatta.com.np">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff88"/>
-</a><a href="https://github.com/mrmanojbhatta">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a><a href="https://medium.com/mrmanojbhatta">
-<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00ff88"/>
-</a></div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=BUILDING+FOR+THE+WEB.;LEARNING+SECURITY.;RESEARCHING+SYSTEMS.;IMPROVING+EVERY+DAY.;%24+keep+building_" alt="Terminal animation"/><br><br>
+**Apna College · 2025**
 
-<code>MANOJ BHATTA • FULL STACK WEB DEVELOPER • NEPAL 🇳🇵</code>
+Delta Full Stack Web Development
+MERN Stack
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### WordPress Web Development
+
+**Udemy · 2023**
+
+WordPress Development
+
+</td>
+
+<td width="50%" valign="top">
+
+### Basic Computer Course
+
+**BCT Sukhad · 2021**
+
+Computer Fundamentals
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+## ADDITIONAL SKILLS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SEO-111111?style=for-the-badge&logo=google&logoColor=00FF88">
+<img src="https://img.shields.io/badge/UI%2FUX-111111?style=for-the-badge&logoColor=00FF88">
+<img src="https://img.shields.io/badge/CANVA-111111?style=for-the-badge&logo=canva&logoColor=00FF88">
+<img src="https://img.shields.io/badge/MS%20OFFICE-111111?style=for-the-badge&logo=microsoftoffice&logoColor=00FF88">
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-111111?style=for-the-badge&logoColor=00FF88">
+<img src="https://img.shields.io/badge/TEAMWORK-111111?style=for-the-badge&logoColor=00FF88">
+<img src="https://img.shields.io/badge/LEADERSHIP-111111?style=for-the-badge&logoColor=00FF88">
+
+</div>
+
+<br>
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="100%">
+
+</div>
+
+<br>
+
+## THE MINDSET
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       LEARN        BUILD        RESEARCH     │
+│          \           |             /         │
+│           \          |            /          │
+│            \         |           /           │
+│             ───── IMPROVE ─────              │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+### "Don't just use technology. Understand it."
+
+</div>
+
+<br>
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://manoj-bhatta.com.np">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-00FF88?style=for-the-badge&logo=googlechrome&logoColor=000000">
+</a>
+
+<a href="https://github.com/mrmanojbhatta">
+<img src="https://img.shields.io/badge/GITHUB-View%20Repositories-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
+
+<a href="https://medium.com/mrmanojbhatta">
+<img src="https://img.shields.io/badge/MEDIUM-Read%20Articles-00FF88?style=for-the-badge&logo=medium&logoColor=000000">
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=BUILDING+FOR+THE+WEB.;LEARNING+SECURITY.;RESEARCHING+SYSTEMS.;UNDERSTANDING+TECHNOLOGY.;IMPROVING+EVERY+DAY.;%24+keep+building_"
+alt="Terminal Animation">
+
+<br><br>
+
+<code>MANOJ BHATTA · FULL STACK WEB DEVELOPER · SECURITY ENTHUSIAST · NEPAL 🇳🇵</code>
 
 <br><br>
 
 <a href="https://manoj-bhatta.com.np">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff88,50:06110d,100:000000" width="100%" alt="Footer"/>
-</a></div>
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<div align="center">
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff88,50:06110d,100:000000"
+width="100%"
+alt="Footer">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/mrmanojbhatta/mrmanojbhatta/output/github-contribution-grid-snake.svg"
-    alt="Manoj Bhatta GitHub Contribution Snake"
-    width="100%">
-</picture>
+</a>
 
 </div>
